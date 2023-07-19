@@ -29,3 +29,7 @@ Facebook Login with [Laraval](http://laravel.com/docs/5.7/) using [Socialite](ht
 ```
 
 - Facebook login does not work unless we are using HTTPS. You can read complete [tutorial](https://medium.com/@sagarmaheshwary31/facebook-login-with-laravel-and-socialite-e08bdee1268d) on medium where I create this login app as well as HTTPS Virtual host with xampp for Ubuntu/Windows.
+
+
+composer require laravel/ui:*
+composer update -W
